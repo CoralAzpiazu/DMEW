@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'HappyMonkey';
+  src: url('fonts/HappyMonkey-Regular.woff2');
+}
+
+@font-face {
+  font-family: 'PermanentMarker';
+  src: url('fonts/PermanentMarker-Regular.woff2');
+}
+
+@font-face {
+  font-family: 'BungeeInline';
+  src: url('fonts/BungeeInline-Regular.woff2');
+}
